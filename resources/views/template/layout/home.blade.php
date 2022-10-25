@@ -5,5 +5,7 @@
 	@yield('content')
 
 
+	
+
 @include("template.layout.footer")
 	
