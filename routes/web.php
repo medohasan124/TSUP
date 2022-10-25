@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('template.index');
-});
+})->name("index");
 
 
 Route::get('about', function () {
@@ -27,8 +27,8 @@ Route::get('contact', function () {
 });
 
 Route::get('mentor', function () {
-    return 'Mentors' ;
-});
+    return view("template.pages.mentors");
+})->name("mentors");
 
 
 Auth::routes();

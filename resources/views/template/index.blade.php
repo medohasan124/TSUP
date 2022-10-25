@@ -11,13 +11,13 @@
               <div class="left-content show-up header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
                 <div class="row">
                   <div class="col-lg-12">
-                    <h6>Digital Media Agency</h6>
-                    <h2>We Boost Your Website Traffic</h2>
+                    <h6>TalkStartUp</h6>
+                    <h2>What we offer to you</h2>
                     <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p>
                   </div>
                   <div class="col-lg-12">
                     <div class="border-first-button scroll-to-section">
-                      <a href="#contact">Free Quote</a>
+                      <a href="#contact">Discover more</a>
                     </div>
                   </div>
                 </div>
@@ -48,14 +48,14 @@
               <div class="about-right-content">
                 <div class="section-heading">
                   <h6>About Us</h6>
-                  <h4>Who is DigiMedia <em>Agency</em></h4>
+                  <h4>Who Is  <em>TalkStartUp</em></h4>
                   <div class="line-dec"></div>
                 </div>
                 <p>We hope this DigiMedia template is useful for your work. You can use this template for any purpose. You may <a rel="nofollow" href="http://paypal.me/templatemo" target="_blank">contribute a little amount</a> via PayPal to <a href="https://templatemo.com/contact" target="_blank">support TemplateMo</a> in creating new templates regularly.</p>
                 <div class="row">
                   <div class="col-lg-4 col-sm-4">
                     <div class="skill-item first-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
-                      <div class="progress" data-percentage="90">
+                      <div class="progress" data-percentage="40">
                         <span class="progress-left">
                           <span class="progress-bar"></span>
                         </span>
@@ -64,8 +64,9 @@
                         </span>
                         <div class="progress-value">
                           <div>
-                            90%<br>
-                            <span>Coding</span>
+                            40%<br>
+                            <span>Mentorship
+                            </span>
                           </div>
                         </div>
                       </div>
@@ -73,7 +74,7 @@
                   </div>
                   <div class="col-lg-4 col-sm-4">
                     <div class="skill-item second-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
-                      <div class="progress" data-percentage="80">
+                      <div class="progress" data-percentage="40">
                         <span class="progress-left">
                           <span class="progress-bar"></span>
                         </span>
@@ -82,8 +83,9 @@
                         </span>
                         <div class="progress-value">
                           <div>
-                            80%<br>
-                            <span>Photoshop</span>
+                            40%<br>
+                            <span>Courses &
+                              workshops</span>
                           </div>
                         </div>
                       </div>
@@ -91,7 +93,7 @@
                   </div>
                   <div class="col-lg-4 col-sm-4">
                     <div class="skill-item third-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
-                      <div class="progress" data-percentage="80">
+                      <div class="progress" data-percentage="20">
                         <span class="progress-left">
                           <span class="progress-bar"></span>
                         </span>
@@ -100,8 +102,9 @@
                         </span>
                         <div class="progress-value">
                           <div>
-                            80%<br>
-                            <span>Animation</span>
+                            20%<br>
+                            <span>Digital
+                              content</span>
                           </div>
                         </div>
                       </div>
@@ -116,7 +119,7 @@
     </div>
   </div>
 
-  <div id="services" class="services section">
+  <div id="services" class="services section d-none">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -297,7 +300,7 @@
       <div class="row">
         <div class="col-lg-4 offset-lg-4">
           <div class="section-heading  wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
-            <h6>Get Your Free Quote</h6>
+            <h6>Get the our news</h6>
             <h4>Grow With Us Now</h4>
             <div class="line-dec"></div>
           </div>
@@ -305,12 +308,8 @@
         <div class="col-lg-8 offset-lg-2  wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
           <form id="search" action="#" method="GET">
             <div class="row">
-              <div class="col-lg-4 col-sm-4">
-                <fieldset>
-                  <input type="web" name="web" class="website" placeholder="Your website URL..." autocomplete="on" required>
-                </fieldset>
-              </div>
-              <div class="col-lg-4 col-sm-4">
+             
+              <div class="col-lg-8 col-sm-8">
                 <fieldset>
                   <input type="address" name="address" class="email" placeholder="Email Address..." autocomplete="on" required>
                 </fieldset>
@@ -333,8 +332,8 @@
       <div class="row">
         <div class="col-lg-5">
           <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-            <h6>Our Portofolio</h6>
-            <h4>See Our Recent <em>Projects</em></h4>
+            
+            <h4>Our  <em>Mentors</em></h4>
             <div class="line-dec"></div>
           </div>
         </div>

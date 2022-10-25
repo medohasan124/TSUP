@@ -1,6 +1,6 @@
 @include("template.layout.header")
-{{--  @include("template.layout.slider")
-	 --}} 
+  @include("template.layout.slider")
+	
 
 	@yield('content')
 

@@ -17,7 +17,9 @@
   <script src="{{asset('frontEnd')}}/assets/js/owl-carousel.js"></script>
   <script src="{{asset('frontEnd')}}/assets/js/animation.js"></script>
   <script src="{{asset('frontEnd')}}/assets/js/imagesloaded.js"></script>
+  <script src="{{asset('select2')}}/select2.min.js"></script>
   <script src="{{asset('frontEnd')}}/assets/js/custom.js"></script>
 
+  @stack('scripts')
 </body>
 </html>

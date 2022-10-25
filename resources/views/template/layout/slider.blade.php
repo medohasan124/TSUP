@@ -13,7 +13,7 @@
   <!-- ***** Preloader End ***** -->
 
   <!-- Pre-header Starts -->
-  <div class="pre-header">
+  <div class="pre-header d-none">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-sm-8 col-7">
@@ -43,18 +43,19 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.html" class="logo">
-              <img src="{{asset('frontEnd')}}/assets/images/logo-v1.png" alt="">
+              <img src="{{asset('logo.jpg')}}" style="width:80px" alt="">
             </a>
             <!-- ***** Logo End ***** -->
+
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
+              <li class="scroll-to-section"><a href="{{route('index')}}" class="active">Home</a></li>
               <li class="scroll-to-section"><a href="#about">About</a></li>
-              <li class="scroll-to-section"><a href="#services">Services</a></li>
-              <li class="scroll-to-section"><a href="#portfolio">Projects</a></li>
+              <li class="scroll-to-section"><a href="{{route('mentors')}}">Mentors</a></li>
+              {{-- <li class="scroll-to-section"><a href="#portfolio">Projects</a></li> --}}
               <li class="scroll-to-section"><a href="#blog">Blog</a></li>
               <li class="scroll-to-section"><a href="#contact">Contact</a></li> 
-              <li class="scroll-to-section"><div class="border-first-button"><a href="#contact">Free Quote</a></div></li> 
+              <li class="scroll-to-section"><div class="border-first-button"><a href="#contact">login</a></div></li> 
             </ul>        
             <a class='menu-trigger'>
                 <span>Menu</span>
@@ -65,4 +66,4 @@
       </div>
     </div>
   </header>
-  <!-- ***** Header Area 
+  <!-- ***** Header Area End ***** -->
